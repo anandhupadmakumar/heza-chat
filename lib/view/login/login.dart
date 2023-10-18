@@ -58,7 +58,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     btnText: 'login',
                     ontap: () {
                       loginController.signinUser();
-                      Get.to(() => AuthScreen());
+                      Get.off(() => AuthScreen());
                     }),
                 size15,
                 TextButton(

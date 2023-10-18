@@ -15,6 +15,7 @@ class BottomMessageInput extends StatelessWidget {
         Expanded(
             child: MyTextField(
                 controller: chatController.messageControler,
+                color: Colors.white,
                 hintText: 'enter your message',
                 maxLine: 10000,
                 obsequreText: false)),
