@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058011763803",
+    "project_id": "heza-chat",
+    "storage_bucket": "heza-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058011763803:android:b6f1bbc49fc32883959b7e",
+        "android_client_info": {
+          "package_name": "com.example.heza_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058011763803-18nf4uv5vhnvo4a14s3uoksa00h147ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA3QSAqt6Ikvon0yTD7qz6Xt-t4jsE0lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058011763803-18nf4uv5vhnvo4a14s3uoksa00h147ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
